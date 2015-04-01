@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContainerType</key>
+	<string>UIView</string>
+	<key>Frame</key>
+	<string>{{10,10},{300,440}}</string>
+	<key>isEditable</key>
+	<string>NO</string>
+	<key>isEnable</key>
+	<string>YES</string>
+	<key>UserInterectionAllow</key>
+	<string>YES</string>
+	<key>BackgroundColor</key>
+	<string>Red</string>
+	<key>SubViews</key>
+	<array>
+		<dict>
+			<key>ContainerType</key>
+			<string>UILabel</string>
+			<key>Frame</key>
+			<string>{{10,10},{280,100}}</string>
+			<key>isEditable</key>
+			<string>NO</string>
+			<key>isEnable</key>
+			<string>YES</string>
+			<key>UserInterectionAllow</key>
+			<string>YES</string>
+			<key>Text</key>
+			<string>First Label</string>
+			<key>BackgroundColor</key>
+			<string>Yellow</string>
+		</dict>
+		<dict>
+			<key>ContainerType</key>
+			<string>UILabel</string>
+			<key>Frame</key>
+			<string>{{10,110},{280,100}}</string>
+			<key>isEditable</key>
+			<string>NO</string>
+			<key>isEnable</key>
+			<string>YES</string>
+			<key>UserInterectionAllow</key>
+			<string>YES</string>
+			<key>Text</key>
+			<string>Secound Label</string>
+			<key>BackgroundColor</key>
+			<string>Green</string>
+		</dict>
+		<dict>
+			<key>ContainerType</key>
+			<string>UIView</string>
+			<key>Frame</key>
+			<string>{{10,210},{280,140}}</string>
+			<key>isEditable</key>
+			<string>NO</string>
+			<key>isEnable</key>
+			<string>YES</string>
+			<key>UserInterectionAllow</key>
+			<string>YES</string>
+			<key>BackgroundColor</key>
+			<string>White</string>
+			<key>SubViews</key>
+			<array>
+				<dict>
+					<key>ContainerType</key>
+					<string>UILabel</string>
+					<key>Frame</key>
+					<string>{{10,10},{140,120}}</string>
+					<key>isEditable</key>
+					<string>NO</string>
+					<key>isEnable</key>
+					<string>YES</string>
+					<key>UserInterectionAllow</key>
+					<string>YES</string>
+					<key>Text</key>
+					<string>Thired Label</string>
+					<key>BackgroundColor</key>
+					<string>Yellow</string>
+				</dict>
+				<dict>
+					<key>ContainerType</key>
+					<string>UILabel</string>
+					<key>Frame</key>
+					<string>{{130,10},{140,120}}</string>
+					<key>isEditable</key>
+					<string>NO</string>
+					<key>isEnable</key>
+					<string>YES</string>
+					<key>UserInterectionAllow</key>
+					<string>YES</string>
+					<key>Text</key>
+					<string>Four Label</string>
+					<key>BackgroundColor</key>
+					<string>Grey</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
